@@ -10,7 +10,7 @@ name = "pypi"
 pytest = "==4.4.1"
 requests = ">=2.20.0"
 "flake8" = "==3.7.7"
-pytest-variables = "==1.7.1"
+pytest-variables = "==1.9.0"
 pytest-testrail = "*"
 configparser = "*"
 
