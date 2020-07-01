@@ -7,7 +7,7 @@ name = "pypi"
 
 [packages]
 
-pytest = "==4.4.1"
+pytest = "==4.6.11"
 requests = ">=2.20.0"
 "flake8" = "==3.7.7"
 pytest-variables = "==1.7.1"
