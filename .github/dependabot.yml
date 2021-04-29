@@ -1,0 +1,12 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: monthly
+    timezone: UCT
+  open-pull-requests-limit: 99
+  ignore:
+  - dependency-name: pytest-xdist
+    versions:
+    - 2.2.0
